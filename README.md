@@ -21,7 +21,7 @@ REST API for order management developed with Node.js and PostgreSQL.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/kauancostaa/order-api.git
+git clone https://github.com/youruser/order-api.git
 cd order-api
 Install dependencies
 
